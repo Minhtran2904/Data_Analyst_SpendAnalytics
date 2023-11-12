@@ -8,3 +8,7 @@ Preview on presentation and findings:
 Spend by Months and Quarters
 
 ![image](https://github.com/Minhtran2904/Data_Analyst_SpendAnalytics/assets/97359403/72bc9acb-a79c-4b01-87e8-c377318ecbec)
+
+Estimated saves by percentage over two years
+
+![image](https://github.com/Minhtran2904/Data_Analyst_SpendAnalytics/assets/97359403/0e2becbe-6c67-4c6f-837d-4f0116b2278e)
